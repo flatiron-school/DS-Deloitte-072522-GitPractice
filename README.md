@@ -100,10 +100,11 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 
+
 ### Maddie
 ![hacker cat](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
-
+i
 ### Maya
 
 
@@ -111,13 +112,12 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Michael
 
 
-
+i
 ### Nesli
 
 ![busy](https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif)
 
 ### Nicholas
-
 
 
 ### Rachel
@@ -129,7 +129,9 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Seerat
-![confused girl] (https://giphy.com/gifs/no-ji6zzUZwNIuL)
+![confused girl](https://media.giphy.com/media/ji6zzUZwNIuLS/giphy.gif)
+
+
 
 
 
