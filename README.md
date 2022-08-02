@@ -19,7 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Abhineet
 
-
+![git merge](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
 
 ### Alberto
 
@@ -70,7 +70,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Jaemin
-
+![GO ON, GIT!](https://media.giphy.com/media/j5Qgf8rf2VYnoWH3SY/giphy.gif)
 
 
 ### Jake
@@ -112,7 +112,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Nesli
 
-
+![busy](https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif)
 
 ### Nicholas
 
