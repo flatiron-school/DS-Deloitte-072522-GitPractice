@@ -106,13 +106,11 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Maya
 
+![confused](https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
 
 
 ### Michael
 ![dog on fire](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
-
-
-
 
 
 ### Nesli
