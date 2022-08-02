@@ -124,7 +124,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Robert
 
-! (https://media.giphy.com/media/LpLd2NGvpaiys/giphy.gif)
+! [Seinfeld] (https://media.giphy.com/media/LpLd2NGvpaiys/giphy.gif)
 
 ### Seerat
 
