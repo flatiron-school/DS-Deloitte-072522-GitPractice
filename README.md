@@ -46,7 +46,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Dylan
-
+![Spongebob Gif to Follow](https://media.giphy.com/media/4no7ul3pa571e/giphy.gif)
 
 
 ### Elijah
