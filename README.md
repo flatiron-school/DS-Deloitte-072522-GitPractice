@@ -82,7 +82,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Kilmar
-
+![merge conflict](https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif)
 
 
 ### Lera
