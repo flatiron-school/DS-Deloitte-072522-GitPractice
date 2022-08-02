@@ -99,7 +99,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Maddie
-
+![hacker cat](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 
 ### Maya
