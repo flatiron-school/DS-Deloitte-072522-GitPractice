@@ -100,10 +100,11 @@ I will either accept your pull request, or send you feedback on what you need to
 ![empty brain](https://media.giphy.com/media/BBkKEBJkmFbTG/giphy.gif)
 
 
+
 ### Maddie
 ![hacker cat](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
-
+i
 ### Maya
 
 ![confused](https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
@@ -112,14 +113,13 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Michael
 ![dog on fire](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
-
+i
 ### Nesli
 
 ![busy](https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif)
 
 ### Nicholas
 ![Coding is an every day struggle](https://media.giphy.com/media/9o9dh1JRGThC1qxGTJ/giphy.gif)
-
 
 ### Rachel
 
@@ -130,6 +130,9 @@ I will either accept your pull request, or send you feedback on what you need to
 ![Seinfeld](https://media.giphy.com/media/LpLd2NGvpaiys/giphy.gif)
 
 ### Seerat
+![confused girl](https://media.giphy.com/media/ji6zzUZwNIuLS/giphy.gif)
+
+
 
 
 
