@@ -34,7 +34,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Cat
-
+![comp kid](https://media.giphy.com/media/ioeQEPFDeS8s8/giphy-downsized.gif)
 
 
 ### Daniel
