@@ -40,7 +40,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Daniel
-
+![gitmerge](https://media.giphy.com/media/PgLT45jalDM0gA4sTS/giphy.gif)
 
 
 ### Douglas
