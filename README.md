@@ -44,7 +44,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Douglas
-
+![chill dog](https://media.giphy.com/media/Kz6ofgw1gNlug/giphy.gif)
 
 
 ### Dylan
