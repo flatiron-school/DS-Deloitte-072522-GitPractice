@@ -51,7 +51,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Elijah
 
-
+![my-gif](https://media.giphy.com/media/2wYrkKvETbAwWAM4Gy/giphy.gif)
 
 ### Greg
 
