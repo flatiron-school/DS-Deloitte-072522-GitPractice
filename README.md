@@ -92,6 +92,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Luis
 
+![kermit](https://media.giphy.com/media/xDoNbo6EFD3JS/giphy.gif)
 
 
 ### Maanik
