@@ -86,7 +86,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Lera
-![elmo on fire](https://github.com/flatiron-school/DS-Deloitte-072522-GitPractice.git)
+![elmo on fire](https://miro.medium.com/max/880/1*S0pwe67pA780cdQETmGblw.gif)
 
 
 
