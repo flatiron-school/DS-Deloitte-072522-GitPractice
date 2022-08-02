@@ -111,7 +111,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Nesli
 
-![tuesday](/img/daisy.gif)
+![try](https://miro.medium.com/max/880/1*S0pwe67pA780cdQETmGblw.gif)
 
 ### Nicholas
 
