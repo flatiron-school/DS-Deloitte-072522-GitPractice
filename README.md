@@ -111,7 +111,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Nesli
 
-![try](https://miro.medium.com/max/880/1*S0pwe67pA780cdQETmGblw.gif)
+![busy](https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif)
 
 ### Nicholas
 
