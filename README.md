@@ -119,7 +119,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ![busy](https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif)
 
 ### Nicholas
-![Coding is an every day struggle](https://giphy.com/gifs/computer-reddit-bPCwGUF2sKjyE)
+![Coding is an every day struggle](https://media.giphy.com/media/9o9dh1JRGThC1qxGTJ/giphy.gif)
 
 
 ### Rachel
