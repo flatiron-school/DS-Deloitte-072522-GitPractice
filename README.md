@@ -29,10 +29,8 @@ I will either accept your pull request, or send you feedback on what you need to
 ### Alex
 
 
-
 ### Andrew
-![the superior cat spin gif](https://media1.giphy.com/media/3iBcRAErFhFwoTVbN5/giphy.gif?cid=ecf05e478nsdz6jegfg1py6ch023o77hq7h1nvbak7rh9h6a&rid=giphy.gif&ct=g)
-
+![the superior cat spin gif](https://media.giphy.com/media/3iBcRAErFhFwoTVbN5/giphy-downsized-large.gif)
 
 
 ### Cat
