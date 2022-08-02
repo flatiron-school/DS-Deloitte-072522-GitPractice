@@ -70,7 +70,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Jaemin
-
+![GO ON, GIT!](https://media.giphy.com/media/j5Qgf8rf2VYnoWH3SY/giphy.gif)
 
 
 ### Jake
