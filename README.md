@@ -67,7 +67,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Himasri
 
-
+![gif of mr bean from giphy](https://media.giphy.com/media/rvhps5a80Ov4s/giphy-downsized.gif)
 
 ### Jaemin
 
