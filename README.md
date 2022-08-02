@@ -1,4 +1,3 @@
-![tuesday](https://media1.giphy.com/media/er7RmM5FjvHHajU8R2/giphy.gif?cid=ecf05e47mpmttdki8iwheyx1vizim1i1avn30tbdy8i7t33l&rid=giphy.gif)
 # Guided GIT-GIF Practice
 
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a Git branching workflow so we can all contribute to this README file.
@@ -112,7 +111,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Nesli
 
-
+![tuesday](https://media1.giphy.com/media/er7RmM5FjvHHajU8R2/giphy.gif?cid=ecf05e47mpmttdki8iwheyx1vizim1i1avn30tbdy8i7t33l&rid=giphy.gif)
 
 ### Nicholas
 
