@@ -111,7 +111,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Nesli
 
-![tuesday](https://c.tenor.com/K-6RAbcuIXMAAAAd/cat-stairs.gif)
+![tuesday](/img/daisy.gif)
 
 ### Nicholas
 
