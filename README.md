@@ -120,7 +120,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Rachel
 
-
+![nerding out](https://giphy.com/gifs/youblewit-you-blew-it-l4FGs5yVJ1KisyXvy.gif)
 
 ### Robert
 
