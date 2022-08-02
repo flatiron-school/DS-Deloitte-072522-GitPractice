@@ -1,3 +1,4 @@
+
 # Guided GIT-GIF Practice
 
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a Git branching workflow so we can all contribute to this README file.
@@ -124,7 +125,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Rachel
 
-![nerding out](https://giphy.com/gifs/youblewit-you-blew-it-l4FGs5yVJ1KisyXvy.gif)
+![nccerding out](https://giphy.com/gifs/youblewit-you-blew-it-l4FGs5yVJ1KisyXvy.gif)
 
 ### Robert
 
