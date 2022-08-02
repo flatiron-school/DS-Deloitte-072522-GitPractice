@@ -78,7 +78,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### James
-
+![Juan Soto Bat Flip](https://media.giphy.com/media/nrwdr3Zov4U7uhsbQx/giphy-downsized.gif)
 
 
 ### Kilmar
